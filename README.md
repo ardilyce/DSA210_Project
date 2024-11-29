@@ -50,8 +50,9 @@ The dataset for this project will be obtained directly from Chess.com using thei
 - **Ratings**: Ratings of both players at the time of the game.
 - **Metadata**: Game results, timestamps, and time control formats.
 
-**Example JSON file:**
+**Example Data:**
 
+```json
 {
    "Game URL": "https://www.chess.com/game/live/116256591711",
    "Time Class": "Bullet",
@@ -63,6 +64,8 @@ The dataset for this project will be obtained directly from Chess.com using thei
    "Result": "win",
    "Moves": "1. Nf3 {[%clk 0:01:01]} 1. d6 {[%clk 0:01:01]} 2. b3 {[%clk 0:01:01.6]} 2. Nf6 {[%clk 0:01:01.5]} ....."
 }
+```
+
 
 ---
 
