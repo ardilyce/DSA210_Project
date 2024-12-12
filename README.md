@@ -54,16 +54,41 @@ The dataset for this project will be obtained directly from Chess.com using thei
 
 ```json
 {
-   "Game URL": "https://www.chess.com/game/live/116256591711",
-   "Time Class": "Bullet",
-   "End Time (Unix)": 1722517666,
-   "White Player": "StubbornPolack",
-   "White Rating": 788,
-   "Black Player": "Ardil30",
-   "Black Rating": 873,
-   "Result": "win",
-   "Moves": "1. Nf3 {[%clk 0:01:01]} 1. d6 {[%clk 0:01:01]} 2. b3 {[%clk 0:01:01.6]} 2. Nf6 {[%clk 0:01:01.5]} ....."
-}
+        "Game URL": "https://www.chess.com/game/live/70878194619",
+        "Time Class": "Blitz",
+        "End Time": "2023-02-23 08:05:56",
+        "White Player": "Ardil30",
+        "White Rating": 659,
+        "Black Player": "Midsummer0ber0n",
+        "Black Rating": 753,
+        "Result": "Loss",
+        "Main Opening": "Kings Indian attack",
+        "Variation": "Kings indian attack keres variation 3.bg2",
+        "Information": {
+            "Event": "Live Chess",
+            "Site": "Chess.com",
+            "Date": "2023.02.23",
+            "Round": "-",
+            "White": "Ardil30",
+            "Black": "Midsummer0ber0n",
+            "Result": "0-1",
+            "CurrentPosition": "5rk1/1pp2ppp/4p3/1P1p4/3b4/BN3n1q/5P2/1R3R1K w - -",
+            "Timezone": "UTC",
+            "ECO": "A07",
+            "ECOUrl": "https://www.chess.com/openings/Kings-Indian-Attack-Keres-Variation-3.Bg2",
+            "UTCDate": "2023.02.23",
+            "UTCTime": "08:00:42",
+            "WhiteElo": "659",
+            "BlackElo": "753",
+            "TimeControl": "180+2",
+            "Termination": "Midsummer0ber0n won by checkmate",
+            "StartTime": "08:00:42",
+            "EndDate": "2023.02.23",
+            "EndTime": "08:05:56",
+            "Link": "https://www.chess.com/game/live/70878194619"
+        },
+        "Moves": "1. Nf3 {[%clk 0:03:01.8]} 1... d5 {[%clk 0:03:00.6]} 2. g3 {[%clk 0:03:03.4]} 2... Bg4 {[%clk 0:03:01.2]} 3. Bg2 {[%clk 0:03:05]}......"
+    }
 ```
 
 
