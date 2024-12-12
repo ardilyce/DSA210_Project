@@ -54,40 +54,40 @@ The dataset for this project will be obtained directly from Chess.com using thei
 
 ```json
 {
-        "Game URL": "https://www.chess.com/game/live/70878194619",
+        "Game URL": "https://www.chess.com/game/live/70878831379",
         "Time Class": "Blitz",
-        "End Time": "2023-02-23 08:05:56",
-        "White Player": "Ardil30",
-        "White Rating": 659,
-        "Black Player": "Midsummer0ber0n",
-        "Black Rating": 753,
-        "Result": "Loss",
-        "Main Opening": "Kings Indian attack",
-        "Variation": "Kings indian attack keres variation 3.bg2",
+        "End Time": "2023-02-23 08:17:53",
+        "White Player": "t4sm44n",
+        "White Rating": 571,
+        "Black Player": "Ardil30",
+        "Black Rating": 657,
+        "Result": "Win",
+        "Main Opening": "Pirc defense",
+        "Variation": "Pirc defense modern defense geller system 2...nf6 3.nc3 g6",
         "Information": {
             "Event": "Live Chess",
             "Site": "Chess.com",
             "Date": "2023.02.23",
             "Round": "-",
-            "White": "Ardil30",
-            "Black": "Midsummer0ber0n",
+            "White": "t4sm44n",
+            "Black": "Ardil30",
             "Result": "0-1",
-            "CurrentPosition": "5rk1/1pp2ppp/4p3/1P1p4/3b4/BN3n1q/5P2/1R3R1K w - -",
+            "CurrentPosition": "8/p4qqK/7N/1Pk5/2p5/8/8/6n1 w - -",
             "Timezone": "UTC",
-            "ECO": "A07",
-            "ECOUrl": "https://www.chess.com/openings/Kings-Indian-Attack-Keres-Variation-3.Bg2",
+            "ECO": "B07",
+            "ECOUrl": "https://www.chess.com/openings/Pirc-Defense-Modern-Defense-Geller-System-2...Nf6-3.Nc3-g6",
             "UTCDate": "2023.02.23",
-            "UTCTime": "08:00:42",
-            "WhiteElo": "659",
-            "BlackElo": "753",
-            "TimeControl": "180+2",
-            "Termination": "Midsummer0ber0n won by checkmate",
-            "StartTime": "08:00:42",
+            "UTCTime": "08:12:23",
+            "WhiteElo": "571",
+            "BlackElo": "657",
+            "TimeControl": "180+2", 
+            "Termination": "Ardil30 won by checkmate",
+            "StartTime": "08:12:23",
             "EndDate": "2023.02.23",
-            "EndTime": "08:05:56",
-            "Link": "https://www.chess.com/game/live/70878194619"
+            "EndTime": "08:17:53",
+            "Link": "https://www.chess.com/game/live/70878831379"
         },
-        "Moves": "1. Nf3 {[%clk 0:03:01.8]} 1... d5 {[%clk 0:03:00.6]} 2. g3 {[%clk 0:03:03.4]} 2... Bg4 {[%clk 0:03:01.2]} 3. Bg2 {[%clk 0:03:05]}......"
+        "Moves": "1. e4 {[%clk 0:03:02]} 1... d6 {[%clk 0:03:00.9]} 2. Nf3 {[%clk 0:03:03]} 2... Nf6 {[%clk 0:03:00.4]} 3. Nc3 {[%clk 0:03:03.8]} ..... "
     }
 ```
 
