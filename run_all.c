@@ -1,3 +1,5 @@
+/* This program is written to run a series of Python scripts sequentially. The scripts are stored in the scripts/ directory. The program will run each script in the order they are listed in the scripts array. If a script fails, the program will stop execution and print an error message. Otherwise, it will print a success message after all scripts have been run. This program is written in C and uses the system function to execute the Python scripts. The program is intended to be run from the command line. */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
