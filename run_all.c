@@ -6,17 +6,19 @@
  * order specified in the 'scripts' array.
  *
  * Functionality:
- * - Runs each Python script one by one using the 
- *   'system' function in C.
- * - If a script fails, execution stops immediately, 
- *   and an error message is displayed.
- * - If all scripts execute successfully, a success 
- *   message is printed at the end.
+ * - Reads preprocessed chess game data from a JSON file.
+ * - Engineers features like 'Rating Differential.'
+ * - Trains a Random Forest Classifier to predict 
+ *   game outcomes ('Win', 'Draw', 'Loss').
+ * - Evaluates the model's performance using accuracy 
+ *   and classification metrics.
+ * - Analyzes the effectiveness of chess openings by 
+ *   calculating win rates and visualizes them in a bar chart.
  *
  * Usage:
  * - Run this program from the command line.
  * - Ensure the scripts are correctly placed in the 
- *   'scripts/' directory before execution.
+ *   'scripts/' and 'ml/ml_models' directories before execution.
  *
  ******************************************************/
 
