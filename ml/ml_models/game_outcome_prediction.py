@@ -61,7 +61,7 @@ def train_model(X_train, y_train, use_smote=False):
 
     print("Training Random Forest Classifier...")
     model = RandomForestClassifier(
-        class_weight={0: 1, 1: 1, 2: 1},  # Slightly prioritize Draw class
+        class_weight={0: 1, 1: 1, 2: 1},  
         n_estimators=300,
         max_depth=10,
         min_samples_split=5,

@@ -51,7 +51,9 @@ int main() {
         "scripts/analyze_openings.py",
         "scripts/analyze_outcomes.py",
         "scripts/analyze_time_management.py",
-        "scripts/visualize.py"
+        "scripts/visualize.py",
+        "ml/ml_models/game_outcome_prediction.py",
+        "ml/ml_models/opening_effectiveness.py",
     };
 
     int num_scripts = sizeof(scripts) / sizeof(scripts[0]);
