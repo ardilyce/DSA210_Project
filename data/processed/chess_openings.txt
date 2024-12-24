@@ -8,62 +8,54 @@ Saragossa
 Ware
 Nimzowitsch Larsen
 Van t kruijs
-Birds Opening
 Birds
 Van Geet
 Mieses
 Grob
 Kings Fianchetto
-Slav defense
 Slav
 Scandinavian 
-Four knights game
+Queens gambit
 Four knights
-Petrovs defense
+Petrov
 Three knights
-Sicilian defense
-Torre attack
-Italian game
+Sicilian
+Torre 
+Italian
 Bishops Opening
-Vienna game
-Scandinavian defense 2.exd5
-Pirc defense
-French defense
-Polish Opening
+Vienna
+Scandinavian
+Pirc
+French
 Polish
-Philidor defense
 Philidor
 Giuoco piano
-Portuguese Opening
 Potuguese
-Kings Indian attack
 Kings Indian
-Queens gambit
-Nimzowitsch defense
+Nimzowitsch 
 Caro kann
-Scotch game
+Scotch
 Center game
-Alekhines defense
+Alekhines
 Old benoni
-Budapest gambit
-Dutch defense
+Budapest
+Dutch
 Indian game
-Danish gambit
-Owens defense
+Danish
+Owens
 Modern defense
 Lion defense
-Ponziani opening
-Trompowsky attack
-London system
+Ponziani 
+Trompowsky 
+London 
 Undefined
 Colle system
-Grunfeld defense
-Undefined
-Tarrasch defense
-Barnes opening
-Grunfeld defense
-Old indian defense
-Ruy lopez opening 
-Dresden opening
+Grunfeld
+Tarrasch
+Barnes
+Old indian 
+Ruy lopez 
+Dresden
 Nimzo indian
-Englund gambit
+Englund 
+Portuguese opening 2...nf6
