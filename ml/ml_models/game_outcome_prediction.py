@@ -125,3 +125,5 @@ if __name__ == "__main__":
     # Save model
     print("Saving model...")
     save_model(model, model_path)
+
+    # 60% accuracy

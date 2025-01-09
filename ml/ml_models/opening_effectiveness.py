@@ -114,3 +114,5 @@ if __name__ == "__main__":
     # Analyze opening effectiveness
     print("Analyzing opening effectiveness...")
     analyze_opening_effectiveness(data)
+
+    # 53% accuracy 
