@@ -1,8 +1,6 @@
 Kings Pawn
-King's Pawn
 English
 Reti
-Queen's Pawn
 Queens Pawn
 Saragossa
 Ware
@@ -59,3 +57,4 @@ Dresden
 Nimzo indian
 Englund 
 Portuguese opening 2...nf6
+Kadas opening 1...e5
