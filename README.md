@@ -1,7 +1,7 @@
 # Chess.com Data Analysis Project
 
 ## Overview
-The aim of this project is to analyze and predict chess game outcomes based on key factors, such as the **rating differential** between players and their **opening choices**. Using a dataset of historical chess games, I employed various data analysis techniques, including statistical testing and machine learning, to identify patterns and build a predictive model for game outcomes. The presentation can be found in this link: [link]
+The aim of this project is to analyze and predict chess game outcomes based on key factors, such as the **rating differential** between players and their **opening choices**. Using a dataset of historical chess games, I employed various data analysis techniques, including statistical testing and machine learning, to identify patterns and build a predictive model for game outcomes. For presentation click [here](https://drive.google.com/file/d/1Ww7E2L2yv1d-T9e1iKsPnB-IGEsaOm1v/view?usp=sharing)
 
 ## Project Description
 I started with data obtained from my games on Chess.com, focusing on extracting important features like player ratings, game outcomes, and opening moves. The main goal was to assess the impact of **rating differential** and **opening choices** on whether a game results in a win or loss.
